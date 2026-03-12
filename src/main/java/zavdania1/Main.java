@@ -4,8 +4,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in); // Создаем инструмент для чтения
-
+        Scanner sc = new Scanner(System.in); 
         System.out.print("Vvedit rechenia: ");
         String input = sc.nextLine();
 
